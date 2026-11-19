@@ -81,11 +81,7 @@ Medigo uses three specialized Python-based AI agents powered by Google Gemini th
                           |
                           v
                        MongoDB
-              +-----------+-----------+
-              |           |           |
-              v           v           v
-            Users      Doctors   Appointments
-```
+            
 
 ---
 
